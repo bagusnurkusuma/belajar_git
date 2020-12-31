@@ -1,2 +1,4 @@
 /name = Bagus
 Email @gmail.com
+
+update dokument e bagus
